@@ -1,2 +1,7 @@
-# Portfolio
- portfolio website
+
+## Tech Stack
+
+- HTML 🚀
+- CSS 🚀
+- JavaScript 🚀
+
